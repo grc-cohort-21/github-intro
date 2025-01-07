@@ -1,3 +1,7 @@
+# making-a-change
+(AI generated)
+Efren "Bata" Reyes is a legendary Filipino professional pool player, widely regarded as one of the greatest in the history of the sport. Born on August 26, 1954, Reyes gained international fame for his exceptional skills in both nine-ball and one-pocket pool. He has won numerous world championships, including the prestigious World Pool Championship, and is known for his creative shot-making, strategic play, and ability to perform under pressure. His accomplishments and contributions have made him a revered figure in the world of billiards.
+
 # github-intro
 Introduction to using git and GitHub. Will lead you through your first fork, clone, commit, and push. It is common to run into issues when going through this. Don't be shy in asking for help or coming to office hours!
 
