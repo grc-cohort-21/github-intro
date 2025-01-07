@@ -47,7 +47,7 @@ Introduction to using git and GitHub. Will lead you through your first fork, clo
     code .
     ```
     If this does not work, you can instead open VS Code, and click on File > Open Folder. Then find and select the `github-intro` folder. Either way, keep the terminal window open. We will return it it soon.
-1. Open the `README.md` file. Make any change to it (adding your name, writing a poem, fixing a typo you found, etc).
+1. Open the `README.md` file. Make any change to it (adding your name, writing a poem, fixing a typo you found, etc). Here is a change by Jacob
    > Note that the change you make will be public for anyone on the internet to see.
 1. Save the changes.
 
