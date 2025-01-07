@@ -1,5 +1,5 @@
 # github-intro
-Introduction to using git and GitHub. Will lead you through your first fork, clone, commit, and push. It is common to run into issues when going through this. Don't be shy in asking for help or coming to office hours!
+Introduction to using git and GitHub! Will lead you through your first fork, clone, commit, and push. It is common to run into issues when going through this. Don't be shy in asking for help or coming to office hours!
 
 
 ## Fork the Repository (repo)
@@ -101,3 +101,6 @@ Introduction to using git and GitHub. Will lead you through your first fork, clo
 1. Click *Create pull request* to open the pull request.
 1. Congrats! You have created your first pull request!
 1. In Canvas, please copy the link to the pull request you created to submit your assignment. For this practice exercise I will not be merging your request. But in a real open-source repository, a *maintainer* would give you feedback on your changes, and if they were happy with them the would *merge* your PR (accept your changes into the original version).
+
+# Some Encouragement
+Congrats! You did it! You are learning something new which can be scary but you tried and you completed the task! This is the first of many new steps you will be taking to learn new skills! Be proud of yourself for making it this far!
